@@ -1,3 +1,4 @@
+
 ![sheetseeimg](https://raw.github.com/jlord/sheetsee-cache/master/img/sheetsee-03.png)
 
 # Sheetsee.js
@@ -58,4 +59,3 @@ More resources on using Sheetsee.js:
 - [Sheetsee-tables](./docs/sheetsee-tables.md)
 - [Sheetsee-maps](./docs/sheetsee-maps.md)
 - [Sheetsee-charts](./docs/sheetsee-charts.md)
-- [test](./docs/sheetsee-charts.md)
